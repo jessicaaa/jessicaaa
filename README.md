@@ -74,7 +74,7 @@
 ---
 
 ## 🎨 Fun Section!
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Animation" width="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 
 ---
 
