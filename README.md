@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petr4&label=Profile%20views&color=0e75b6&style=flat" alt="petr4" /> </p>
 
-- 🌱 I’m currently learning **Linux, **
+- 🌱 I’m currently learning **Linux**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/jessicaaa)
 
